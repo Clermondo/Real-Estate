@@ -1,0 +1,4 @@
+Slick slider plugin
+Font Awesome
+The top links of html
+import google fonts
